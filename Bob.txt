@@ -1,3 +1,5 @@
 Hi! I'm Bob. I've been here for a while now.
 
 Now testing merging divergent branches.
+
+Now testing rebasing divergent branches.
