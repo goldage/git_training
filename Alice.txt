@@ -5,3 +5,5 @@ Test branching.
 Now testing merging divergent branches.
 
 Test rebasing.
+
+Test updating the Dev Environment with remote changes (use the online tools offered by GitHub, to simulate someone else making changes to the remote while we work).
