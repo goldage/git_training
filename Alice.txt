@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone made a change to on the remote!
 Then a bit later someone made another remote change.
+Test updating the Dev Environment with remote changes (use the online tools offered by GitHub, to simulate someone else making changes to the remote while we work).
